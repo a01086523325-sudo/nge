@@ -1,0 +1,10 @@
+{
+	"name": "FNF: Evangelion",
+	"description": "An intense FNF crossover mod set in the world of Neon Genesis Evangelion. Battle alongside Shinji and face the Angels!",
+	"color": [146, 43, 171],
+	"restartTitleState": false,
+	"runsGlobally": false,
+	"loadBeforeOfficialWeek": false,
+	"author": "제작자 이름",
+	"version": "1.0.0"
+}
